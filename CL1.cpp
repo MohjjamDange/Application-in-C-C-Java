@@ -13,13 +13,17 @@ class myClass
 	 int iNo2;
 	
 	
-};
+}
 
 
 
 int main()
 {
 	myClass mobj;
-
+	
+	
+	
+	
+	
 	return 0;
 }
